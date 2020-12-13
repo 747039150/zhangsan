@@ -23,7 +23,7 @@ print ("你输入的内容是："+a)'''
 a = (input("请输入"))
 b = (input("请输入"))
 i = len(a+b)
-print("你输入了" ,str(i) ,"字符" ) 
+print("你输入了" ,str(i) ,"字符啦啦啦" ) 
 # s1 = str (dasdasda"张三");
 # s2 = str ("李四");
 # s3 = str ("陈五");
